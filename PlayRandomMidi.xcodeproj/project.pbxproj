@@ -32,7 +32,6 @@
 		8CCD3E171284022C00E5E2C2 /* AudioUnit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioUnit.framework; path = System/Library/Frameworks/AudioUnit.framework; sourceTree = SDKROOT; };
 		8CCD3E1B1284023800E5E2C2 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		8CCD3E371284056C00E5E2C2 /* mt19937ar.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = mt19937ar.c; sourceTree = "<group>"; };
-		8CCD3E381284056C00E5E2C2 /* mt19937ar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mt19937ar.h; sourceTree = "<group>"; };
 		8DD76FB20486AB0100D96B5E /* PlayRandomMidi */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PlayRandomMidi; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -64,7 +63,6 @@
 			isa = PBXGroup;
 			children = (
 				8CCD3E371284056C00E5E2C2 /* mt19937ar.c */,
-				8CCD3E381284056C00E5E2C2 /* mt19937ar.h */,
 				08FB7796FE84155DC02AAC07 /* main.c */,
 			);
 			name = Source;

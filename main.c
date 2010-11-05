@@ -3,7 +3,6 @@
 #include <CoreServices/CoreServices.h>
 #include <AudioUnit/AudioUnit.h>
 #include <AudioToolbox/AudioToolbox.h>
-#include "mt19937ar.h"
 
 #define kMidiMessage_ControlChange 0xB
 #define kMidiMessage_ProgramChange 0xC
